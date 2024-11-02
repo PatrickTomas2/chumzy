@@ -26,6 +26,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
+  web: true
   image_path: "assets/chumzy_character/chumzy_app_icon.png"
 
 flutter:
